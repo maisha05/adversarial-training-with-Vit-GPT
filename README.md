@@ -1,0 +1,1 @@
+We have developed a multimodal machine learning model for image captioning task. We have used ViT as vision model and GPT-2 as language model. We imposed adversarial example to the model. we used FGSM as adversarail example for this task. 
